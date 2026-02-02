@@ -1,8 +1,8 @@
 # YTShell
-### 1.0.0-beta.1
+### 1.0.0-beta.2
 ---
 ### CHANGELOG
- - ***First version(not guarenteed stable)***
+ - Possibly fixed import error
 ---
 ### ABOUT
 YTShell is a helpful command-line tool for monitoring YouTube stats. It uses RSS connection to fetch youtube statistics.
@@ -14,3 +14,8 @@ YTShell is a helpful command-line tool for monitoring YouTube stats. It uses RSS
 ---
 ### DEVELOPERS
  - ***Arlo Grace*** - Head developer(did all the work)
+
+---
+
+### NOTE
+YTShell 1.0.0-beta.2 has NOT been tested.
